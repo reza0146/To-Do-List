@@ -58,41 +58,4 @@ int main() {
         } 
     }
     
-
-    // Task my_task1("Wash the Dishes", false);
-    // Task my_task2("Take out the garbage", false);
-    // Task my_task3("Call mom", false);
-    // std::vector<Task> task_list = {my_task1, my_task2, my_task3};
-
-    // TaskList my_task_list(task_list);
-    // std::cout << my_task_list.print_list();
-
-
-
-
-    // // This does not work, probably because the vector saved inside my_task_list is a copy of the individual tasks.
-    // // my_task1.toggleState();
-    // // my_task1.print_info();
-    // // std::cout << my_task_list.print_list();
-
-    // my_task_list.toggleStateByIdx(1);
-    // std::cout << my_task_list.print_list();
-
-    // std::cout << task_list[1].get_state();
-
-    // Task my_task4("Paint wall" , true);
-    // my_task_list.add_end_list(my_task4);
-    // std::cout << my_task_list.print_list();
-
-
-
-
-
-    // my_task1.print_info();
-    // my_task1.toggleState();
-    // my_task1.print_info();
-    
-
-
-
 }
